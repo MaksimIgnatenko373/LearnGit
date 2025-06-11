@@ -1,5 +1,5 @@
 package Module1.Exams;
-
+// Я учу Git!
 public class Exam {
     public static void main(String[] args) {
         int num = 2;
